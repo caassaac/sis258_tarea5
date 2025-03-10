@@ -34,10 +34,10 @@ public class Cliente {
                     System.out.println("Secuencia Fibonacci de " + n + " es " + operaciones.Fibonacci(n));
                     break;
                 case 3:
-                    System.out.println("Sumatoria de " + n + ": " + operaciones.Summation(n));
+                    System.out.println("Sumatoria de " + n + " es " + operaciones.Summation(n));
                     break;
                 case 4:
-                    System.out.println("Factorial de " + n + ": " + operaciones.Factorial(n));
+                    System.out.println("Factorial de " + n + " es " + operaciones.Factorial(n));
                     break;
                 case 5:
                     System.out.println("Saliendo...");
