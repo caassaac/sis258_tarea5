@@ -2,8 +2,6 @@ package org.example;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Operaciones extends UnicastRemoteObject implements IOperaciones {
 
