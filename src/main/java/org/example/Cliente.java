@@ -18,7 +18,7 @@ public class Cliente {
         do {
             System.out.println("\nMENÚ");
             System.out.println("1. Insertar número");
-            System.out.println("2. Calcular Fibonacci de N");
+            System.out.println("2. Calcular Fibonacci");
             System.out.println("3. Calcular sumatoria");
             System.out.println("4. Calcular factorial");
             System.out.println("5. Salir");
